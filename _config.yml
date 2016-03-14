@@ -1,0 +1,28 @@
+name: PMCWorkforce
+favicon: null
+layout_spectrum: 0.013152787694707513
+typography_spectrum: 0.1371707678772509
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.021051635965704918
+  lightness: 0.42265401035547256
+  saturation: 0.4429618746507913
+  rhythmicContrast: 0.4576725969091058
+purpose: []
